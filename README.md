@@ -1,5 +1,5 @@
 # ubuntu-focal-20.04-libglib2.0-0_2.64.6-1-ubuntu20.04.4_amd64.deb
-libglib2.0-0_2.64.6-1-ubuntu20.04.4 , griggorii , developer , fastland
+libglib2.0-0_2.64.6-1-ubuntu20.04.4 , griggorii , developer , meson 0.53.2 build , fastland
 
                                                             Ubuntu 20.04
 
