@@ -11,4 +11,6 @@ $ sudo apt purge libglib2.0-dev libglib2.0-doc libglib2.0-tests
 
 $ sudo apt autoremove
 
+Architect griggorii only real technologies my work , not any fictional parasitic distributions support real technology investments and donate dollar card VISA 4817 7601 8112 4706
+
 
